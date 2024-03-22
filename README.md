@@ -1,5 +1,5 @@
 # Currency Convertor using API
 <br>
 Using HTML + CSS + JAVA SCRIPT
-<b>
+<br>
 New Feature
