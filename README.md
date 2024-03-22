@@ -1,3 +1,3 @@
 # Currency Convertor using API
 <br>
-Using HTML + CSS + JAVA SCRIP
+Using HTML + CSS + JAVA SCRIPT
